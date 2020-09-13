@@ -1,0 +1,86 @@
+body {
+  padding: 600px 0;
+}
+
+#monthly {
+  background-color: #f1f3f8;
+
+}
+
+h2,h1,p {
+  text-align: center;
+  color: #323232;
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+/* background-image  */
+.top-img {
+  position: relative;
+  left: 235px;
+  bottom: 85px;
+
+}
+
+.btm-img {
+  position: relative;
+  top: 175px;
+
+}
+
+.container-fluid {
+  height: 750px
+
+}
+
+
+/*  Pricing Table  */
+
+.card {
+  width: 290px;
+  margin: 0px auto;
+}
+.first-card {
+  position: relative;
+  left: 35px;
+  bottom: 500px;
+}
+.second-card {
+  position: relative;
+  bottom: 520px;
+
+}
+.Third-card {
+
+  position: relative;
+  right: 35px;
+  bottom: 500px;
+}
+.card-deck {
+  padding: 400px 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+.snd-card {
+  height: 450px;
+  background-color: #7f78d2;
+  color: white;
+}
+.first-card-head {
+  background-color: white;
+}
+.Third-card-header {
+  background-color: white;
+}
+.btn-3 {
+  background-color: #7f78d2;
+  color: white;
+}
+.btn-1st {
+  background-color: #7f78d2;
+  color: white;
+}
+.btn-2 {
+  color: #7f78d2;
+
+}
